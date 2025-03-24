@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Hello! I'm Jander Júnior (JJ) a backend developer with over two years of experience, dedicated to creating efficient and innovative solutions. My journey in development is marked by a commitment to quality, self-directed learning, and a constant pursuit of new technologies.</p>
+<p align="left">Hello! I'm Jander Júnior (JJ) a backend developer with over 3 years of experience, dedicated to creating efficient and innovative solutions. My journey in development is marked by a commitment to quality, self-directed learning, and a constant pursuit of new technologies.</p>
 
 ###
 
